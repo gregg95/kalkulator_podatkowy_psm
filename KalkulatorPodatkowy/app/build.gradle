@@ -29,6 +29,7 @@ dependencies {
     compile 'com.google.firebase:firebase-database:10.0.1'
     testCompile 'junit:junit:4.12'
     compile files('C:/Workspace/KiK/KalkulatorPodatkowy/lib/bsh-2.0b4.jar')
+    compile files('C:/Workspace/KalkulatorPodatkowyPSM/KalkulatorPodatkowy/lib/bsh-2.0b4.jar')
 }
 
 
