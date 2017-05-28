@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@color/eggshell">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Co chcesz obliczyć?"
+        android:textColor="@color/text_color"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnUmowaOPrace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Umowa o prace"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnUmowaODzielo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Umowa o dzieło"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnUmowaZlecenie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Umowa zlecenie"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnSpadekDarowizna"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Spadek i darowizna"
+        android:textAllCaps="false"/>
+
+</LinearLayout>

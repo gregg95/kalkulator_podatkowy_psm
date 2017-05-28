@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Wybierz grupę podatkową, która odpowiada Twojej sytuacji."
+        android:textColor="@color/text_color"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btnGrupaA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Grupa A"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnGrupaB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Grupa B"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/btnGrupaC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Grupa C"
+        android:textAllCaps="false" />
+
+    <TextView
+        android:id="@+id/txtInfoIrl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="
+    Grupa zależy od stopnia pokrewieństwa.\n
+\n
+    Grupa A - syn/córka\n
+    Grupa B - rodzice, brat, siostra, siostrzeniec, siostrzenica, wnuki\n
+    Grupa C - pozostali
+"
+        android:textColor="@color/text_color" />
+</LinearLayout>

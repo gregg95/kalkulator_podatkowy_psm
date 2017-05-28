@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "411085071245",
+    "firebase_url": "https://kalkulatorpodatkowypsm.firebaseio.com",
+    "project_id": "kalkulatorpodatkowypsm",
+    "storage_bucket": "kalkulatorpodatkowypsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411085071245:android:a00da3683fb4f972",
+        "android_client_info": {
+          "package_name": "psm.com.kalkulatorpodatkowy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411085071245-jirvsd4eke5qc8bnh52ojia45l2k4qh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "psm.com.kalkulatorpodatkowy",
+            "certificate_hash": "25d314bd0f5aab3a54bf9d1c05976d4c35c9cf68"
+          }
+        },
+        {
+          "client_id": "411085071245-nmbutjre2vu5ugf8e875o5b4675ch58r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvMztpyx1pb_n1Hoba-b5pu6fIoe8tRUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411085071245-nmbutjre2vu5ugf8e875o5b4675ch58r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0f1651</color>
+    <color name="colorPrimaryDark">#0f1626</color>
+    <color name="colorAccent">#FF533D</color>
+    <color name="navy_blue">#0F1626</color>
+    <color name="leather">#AB987A</color>
+    <color name="coral">#FF533D</color>
+    <color name="eggshell">#F5F5F5</color>
+    <color name="text_color">#071627</color>
+    <color name="btnColor">#404040</color>
+</resources>
